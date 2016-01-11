@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python ./scripts/test.py
+python ./uname-script/scripts/test.py
